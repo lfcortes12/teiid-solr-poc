@@ -1,0 +1,1 @@
+# teiid-solr-poc
